@@ -1,2 +1,2 @@
 # java
-Simple java projects
+Simple java projects.
